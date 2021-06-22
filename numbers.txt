@@ -1,0 +1,5 @@
+1. Implement checkIfPrime function which takes integer as an input and returns boolean after checking if the input number is a prime number or not.
+
+2.  Write a JavaScript function to generate a random integer between two given integers
+
+3. Write a Recursive function to calculate the factorial of a number

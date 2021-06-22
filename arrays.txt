@@ -1,0 +1,23 @@
+1. Write a JavaScript program to test whether an array of integers of length 2 does not contain 1 or a 3.
+  2nd part - Do this using find method of array
+
+2. Write a function to find the longest string from a given array of strings. 
+
+
+3. Write a function to double the values of an array. Eg. -> [1,2] -> [2,4]
+  2nd part - Do this using reduce method
+
+
+4. let someNumbers = [
+  37, 25, 12, 41, 30, 35, 32, 3, 22, 46, 4, 33, 12, 29, 45, 42, 36, 28, 42, 4, 29, 41, 31, 16, 33, 19, 20, 14, 22, 37, 17, 10, 41, 8, 36, 10, 48, 5, 17, 39, 19, 43, 37, 29, 16, 24, 30, 13, 34, 43, 46, 20, 18, 14, 42, 9, 8, 38, 31, 12, 49, 23, 31, 37, 46, 9, 29, 4, 32, 5, 50, 12, 22, 18, 5, 6, 23, 40, 44, 34, 22, 37, 37, 39, 38, 11, 41, 22, 6, 13, 5, 34, 6, 16, 24, 14, 33, 9, 43, 38
+];
+//----- DO NOT MODIFY ANY CODE ABOVE THIS LINE -----
+
+//@TODO
+// 1. Remove all duplicate elements from above array and create another array having only unique elements. Print the same.
+//@CONSTRAINTS
+// 1. This has to be done with minimal time complexity
+// 2. No restriction on space complexity
+
+5. 8. Write a JavaScript program to filter out the specified values from a specified array. Return the original array without the filtered values.
+ 2nd Part - Use filter method

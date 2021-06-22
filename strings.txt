@@ -1,0 +1,12 @@
+
+P1: Write a JavaScript program to create a new string from a given string changing the position of first and last characters. The string length must be greater than or equal to 1.
+
+P2:
+Find out the duplicate characters in the string.
+Input: “adsjfdsfsfjsdjfhacabcsbajda”
+Output: { a: 5, b: 2, c: 2, d: 4, f: 4, j: 4, s: 5 }
+
+P3:
+Generate All Permutations of a given string
+Input: ABC
+Output: ABC, ACB, BCA, BAC, CAB, CBA

@@ -1,0 +1,7 @@
+1: Add a prototype method to array object which sorts the array. Call it 'sortArray'
+
+2: Add a prototype method to string object which returns the strig in lowecase. Call it 'makeItLowerCase'
+
+3: Create a constructor function . Add a prototype method to the function which can be accessed by all its objects.
+
+4. Write a JavaScript program to compare two objects to determine if the first one contains equivalent property values to the second one
