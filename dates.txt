@@ -9,4 +9,4 @@
 2.  Write a JavaScript program to get the number of seconds since 01-01-1980:00:00:00 . 
 The second date will be the current date.
 
-3. Write a JavaScript function to add specified minutes to a Date object.
+3. Write a JavaScript function to add specified minutes to a Date object..
